@@ -19,10 +19,12 @@ html{
     position: relative;
 }
 
+.heading{
+    color: black;
+}
 
 .text-container h1{
     text-align: center;
-    color: #ffffff;
     font-size: 55px;
     padding: 25px;
 } 
