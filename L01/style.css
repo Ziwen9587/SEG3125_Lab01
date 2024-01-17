@@ -10,6 +10,16 @@ html{
     width:850px;
     height:350px;
 }
+
+#comment-textarea{
+    width: 600px;
+    height:250px;
+    margin-left:20px;
+}
+
+#comments-header{
+    margin-left:20px;
+}
 .background {
     background-size: cover;
     background-repeat: no-repeat;
