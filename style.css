@@ -10,6 +10,16 @@ html{
     width:850px;
     height:350px;
 }
+
+#comment-textarea{
+    width: 600px;
+    height:250px;
+
+}
+#submit-btn{
+    margin-top:2em;
+    color:#0d6efd;
+}
 .background {
     background-size: cover;
     background-repeat: no-repeat;
@@ -63,6 +73,7 @@ form {
     color: black;
     padding: 20px;
 }
+
 
 
 
