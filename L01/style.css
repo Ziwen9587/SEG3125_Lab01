@@ -1,7 +1,16 @@
+html{
+    font-family: 'Open Sans', sans-serif;
+}
 
-
+#screenshot-container{
+    display:flex;
+    justify-content:center;
+}
+#page-img{
+    width:850px;
+    height:350px;
+}
 .background {
-    background-image: url(images/background.JPG);
     background-size: cover;
     background-repeat: no-repeat;
     background-position:center;
@@ -48,9 +57,8 @@ img {
 
 form {
     /* text-align: center; */
-    color: #ffffff;
+    color: black;
     padding: 20px;
-    background: linear-gradient(45deg, rgb(0, 0, 0), rgba(0, 125, 209, 0.979));
 }
 
 
