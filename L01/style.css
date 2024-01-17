@@ -14,11 +14,11 @@ html{
 #comment-textarea{
     width: 600px;
     height:250px;
-    margin-left:20px;
-}
 
-#comments-header{
-    margin-left:20px;
+}
+#submit-btn{
+    margin-top:2em;
+    color:#0d6efd;
 }
 .background {
     background-size: cover;
@@ -74,6 +74,7 @@ form {
     color: black;
     padding: 20px;
 }
+
 
 
 
