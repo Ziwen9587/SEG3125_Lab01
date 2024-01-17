@@ -1,5 +1,6 @@
 html{
     font-family: 'Open Sans', sans-serif;
+    margin:0;
 }
 
 #screenshot-container{
@@ -18,7 +19,21 @@ html{
 }
 #submit-btn{
     margin-top:2em;
-    color:#0d6efd;
+    background-color:#0d6efd;
+    color:white;
+    border:none;
+    border-radius: 5px;
+    width:10em;
+    height:3em;
+    cursor:pointer;
+}
+#submit-btn:hover{
+
+    background-color:#082d63;
+
+}
+#signatures-container{
+    margin-left:20px;
 }
 .background {
     background-size: cover;
@@ -73,7 +88,6 @@ form {
     color: black;
     padding: 20px;
 }
-
 
 
 
